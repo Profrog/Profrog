@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 계약직	양지 메가스터디 기숙학원 교무과 1년 근무(기본 + 연장)	19.07.22 ~ 20.04.30	O
 
-기술지원매가스터디 내 업무 효율화 증진을 위하여 통합 매크로 문서 개발(excel) : 해당 지사 부원장님의 주도하에 tf팀 소속으로 활동	19.10.17 ~ 19.10.24	O
+기술지원 매가스터디 내 업무 효율화 증진을 위하여 통합 매크로 문서 개발(excel) : 해당 지사 부원장님의 주도하에 tf팀 소속으로 활동	19.10.17 ~ 19.10.24	O
  drive : https://drive.google.com/drive/folders/11w_e9Y-lqGOZ4QihzolqNXOgsXBxrJuI
  
  
