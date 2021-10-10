@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 17.03.16 ~ 17.06.08	X
 
 동아리활동	"igrus" 동아리 내에서 하드웨어 스터디와 설립 후 다이달로스 팀을 만들어 인하설계종합경진대회에 팀장으로 참여 게임기 및 게임 제작
- 
+ project : https://github.com/Profrog/AURA-CONNECTION-FINAL
   (시연 동영상 : https://www.youtube.com/watch?v=5tsH03EbstE)	17.03.03 ~ 17.05.31	X
 
 수상경력	make-a-ton 대회에서 화재 상황 별 탈출루트 모델 설계로 우수상 수상
- 탈출루트 프로젝트 : https://github.com/Profrog/Make-Graph-and-find-the-shortest-Root-
+ project : https://github.com/Profrog/Make-Graph-and-find-the-shortest-Root-
   (코드작동 동영상 : https://www.youtube.com/watch?v=9HfEB9ufzn0)	17.03.09 ~ 17.06.06	X
     
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 계약직	양지 메가스터디 기숙학원 교무과 1년 근무(기본 + 연장)	19.07.22 ~ 20.04.30	O
 
 봉사활동	매가스터디 내 업무 효율화 증진을 위하여 통합 매크로 문서 개발(excel) : 해당 지사 부원장님의 주도하에 tf팀 소속으로 활동	19.10.17 ~ 19.10.24	O
- 관련 문서 : https://drive.google.com/drive/folders/11w_e9Y-lqGOZ4QihzolqNXOgsXBxrJuI
+ drive : https://drive.google.com/drive/folders/11w_e9Y-lqGOZ4QihzolqNXOgsXBxrJuI
  
  
 봉사활동 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
