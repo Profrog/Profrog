@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  project : https://github.com/Profrog/firebase_app
 
 현장실습 한국철도기술연구원 ict 대중교통 연구팀에서 ros2 + yolov4 검출패키지 제작 및 관련 지원 프로그램 지원 프로젝트 진행(기본 + 연장) 21.3.2 ~ 21.08.31
- main project : https://github.com/Profrog/ros2yolo_python(보고서 있음)
+ main project : https://github.com/Profrog/ros2yolo_python (보고서 있음)
  sub program : https://github.com/Profrog/yolo_scan_algorithm
  
 기술지원 충남대학교 김철희 교수님 제브라피쉬 연구팀 yolo 검출 프로그램 지원 21.3.27 ~ 21.9.6
