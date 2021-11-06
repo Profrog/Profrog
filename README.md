@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
-<a href="https://www.burgerking.co.kr/#/home" target="_blank"><img src="https://img.shields.io/badge/Android-D62300?style=flat-square&logo=Burger King&logoColor=white"/></a>
+<a href="https://www.burgerking.co.kr/#/home" target="_blank"><img src="https://img.shields.io/badge/Burger King-D62300?style=flat-square&logo=Burger King&logoColor=white"/></a>
 
 
 
