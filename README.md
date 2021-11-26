@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
-<a href="http://www.robozzle.com/user.aspx?name=profrog" target="_blank"></a>
+<a href="http://www.robozzle.com/user.aspx?name=profrog" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
 
 
