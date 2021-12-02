@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  app : https://github.com/Profrog/app-using-qrcode-for-untact-service
 
 
-수상경력	2021 슈퍼챌린지 소프트웨어 해커톤	  21.01.21 ~ 21.01.22	O
+수상경력	2021 슈퍼챌린지 소프트웨어 해커톤 특별상  21.01.21 ~ 21.01.22	O
  project : https://github.com/Profrog/firebase_app
 
 현장실습 한국철도기술연구원 ict 대중교통 연구팀에서 ros2 + yolov4 검출패키지 제작 및 관련 지원 프로그램 지원 프로젝트 진행(기본 + 연장) 21.3.2 ~ 21.08.31
