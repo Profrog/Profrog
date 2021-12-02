@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 
 수상경력	IGRUS 화합챌린지 우수상 수상	20.10.10 ~ 20.10.10	O
  project(linux_server) : https://github.com/Profrog/raspberryPI-using-Qr-code-with-doorrock-access-for-untact-service/blob/master/final.py
- app : https://github.com/Profrog/app-using-qrcode-for-untact-service
- 시연 영상 : https://www.youtube.com/watch?v=naljLBhdZjI
+ <br>app : https://github.com/Profrog/app-using-qrcode-for-untact-service
+ <br>시연 영상 : https://www.youtube.com/watch?v=naljLBhdZjI
 
 
 수상경력	2021 슈퍼챌린지 소프트웨어 해커톤 특별상  21.01.21 ~ 21.01.22	O
