@@ -76,7 +76,7 @@ Here are some ideas to get you started:
  
 기술지원 충남대학교 김철희 교수님 제브라피쉬 연구팀 yolo 검출 프로그램 지원 21.3.27 ~ 21.9.6
  code : https://github.com/Profrog/yolo_scan_algorithm/blob/ImTurtle35-patch-1/yolo_webcam_count.py
- 영상 : https://www.youtube.com/watch?v=_04NAexi5v8
+ <br>영상 : https://www.youtube.com/watch?v=_04NAexi5v8
  
 봉사활동 매주1과제 앱 출시 21.6.30 ~ 21.8.31
  project : https://github.com/Profrog/maeju_test
