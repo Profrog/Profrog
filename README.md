@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 현장실습 한국철도기술연구원 ict 대중교통 연구팀에서 ros2 + yolov4 검출패키지 제작 및 관련 지원 프로그램 지원 프로젝트 진행(기본 + 연장) 21.3.2 ~ 21.08.31
  main project : https://github.com/Profrog/ros2yolo_python (보고서 있음)
- sub program : https://github.com/Profrog/yolo_scan_algorithm
+ <br>sub program : https://github.com/Profrog/yolo_scan_algorithm
  
 기술지원 충남대학교 김철희 교수님 제브라피쉬 연구팀 yolo 검출 프로그램 지원 21.3.27 ~ 21.9.6
  code : https://github.com/Profrog/yolo_scan_algorithm/blob/ImTurtle35-patch-1/yolo_webcam_count.py
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
  
 봉사활동 매주1과제 앱 출시 21.6.30 ~ 21.8.31
  project : https://github.com/Profrog/maeju_test
- onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850
+ <br>onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850
 
 
   
