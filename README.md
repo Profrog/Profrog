@@ -79,7 +79,7 @@ Here are some ideas to get you started:
  <br>영상 : https://www.youtube.com/watch?v=_04NAexi5v8
  
 봉사활동 매주1과제 앱 출시 21.6.30 ~ 21.8.31
- project : https://github.com/Profrog/maeju_test
+ <br>project : https://github.com/Profrog/maeju_test
  <br>onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850
 
 
