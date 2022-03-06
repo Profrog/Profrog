@@ -57,8 +57,9 @@ blog : https://blog.naver.com/ache159
 기술지원 매가스터디 내 업무 효율화 증진을 위하여 통합 매크로 문서 개발(excel) : 해당 지사 부원장님의 주도하에 tf팀 소속으로 활동	19.10.17 ~ 19.10.24	O
  drive : https://drive.google.com/drive/folders/11w_e9Y-lqGOZ4QihzolqNXOgsXBxrJuI
 
-운전면허 2종 보통 취득 20.09.01
- 
+자격증 운전면허 2종 보통 취득 20.09.01
+https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88.jpg
+
 봉사활동 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
  홍보 영상 : https://www.youtube.com/watch?v=Oi94XjuaO_E
 
@@ -88,7 +89,7 @@ blog : https://blog.naver.com/ache159
 독서 100권 읽기 도전 22.02.01 ~
  <br>link : https://blog.naver.com/ache159/222664829891
 
-컴활 1급 취득 22.03.04
+자격증 컴활 1급 취득 22.03.04
   
   
   
