@@ -84,8 +84,8 @@ blog : https://blog.naver.com/ache159
  <br>project : https://github.com/Profrog/maeju_test
  <br>onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850
 
-
-독서 100권 읽기 도전중
+독서 100권 읽기 도전 22.02.01 ~
+ <br>link : https://blog.naver.com/ache159/222664829891
 
 컴활 1급 취득 22.03.04
   
