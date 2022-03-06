@@ -85,6 +85,8 @@ blog : https://blog.naver.com/ache159
  <br>onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850
 
 
+독서 100권 읽기 도전중
+
 컴활 1급 취득 22.03.04
   
   
