@@ -55,7 +55,8 @@ blog : https://blog.naver.com/ache159
 계약직	양지 메가스터디 기숙학원 교무과 1년 근무(기본 + 연장)	19.07.22 ~ 20.04.30	O
 
 기술지원 매가스터디 내 업무 효율화 증진을 위하여 통합 매크로 문서 개발(excel) : 해당 지사 부원장님의 주도하에 tf팀 소속으로 활동	19.10.17 ~ 19.10.24	O
- <br>drive : https://drive.google.com/drive/folders/11w_e9Y-lqGOZ4QihzolqNXOgsXBxrJuI
+ <br>시연영상1 : https://www.youtube.com/watch?v=tQvN8jMyIcU
+ <br>시연영상2 : https://www.youtube.com/watch?v=2H1D9SkBC3E
 
 자격증 운전면허 2종 보통 취득 20.09.01
 <br>https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88.jpg
