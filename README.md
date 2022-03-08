@@ -60,7 +60,7 @@ blog : https://blog.naver.com/ache159
 자격증 운전면허 2종 보통 취득 20.09.01
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88.jpg
 
-봉사활동 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
+봉사활동 300명 규모 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
  홍보 영상 : https://www.youtube.com/watch?v=Oi94XjuaO_E
 
 
