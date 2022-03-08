@@ -61,7 +61,8 @@ blog : https://blog.naver.com/ache159
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88.jpg
 
 봉사활동 300명 규모 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
- 홍보 영상 : https://www.youtube.com/watch?v=Oi94XjuaO_E
+ <br>홍보 영상 : https://www.youtube.com/watch?v=Oi94XjuaO_E
+ <br>사이트 : https://kgr9911.wixsite.com/everyweekhomework
 
 
 수상경력	IGRUS 화합챌린지 우수상 수상	20.10.10 ~ 20.10.10	O
