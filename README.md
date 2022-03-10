@@ -92,6 +92,8 @@ blog : https://blog.naver.com/ache159
  <br>link : https://blog.naver.com/ache159/222664829891
 
 자격증 컴활 1급 취득 22.03.04
+
+메타버스와 함께하는 독서 스터디 Ten and Reader 개설
   
   
   
