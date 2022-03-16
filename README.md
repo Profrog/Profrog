@@ -92,7 +92,7 @@ blog : https://blog.naver.com/ache159
  <br>link : https://blog.naver.com/ache159/222664829891
 
 자격증 컴활 1급 취득 22.03.04
- <br>https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BB%B4%ED%99%9C1%EA%B8%89.jpg
+ <br>https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BB%B4%ED%99%9C_1%EA%B8%89.jpg
 
 메타버스와 함께하는 독서 스터디 Ten and Reader 개설
   
