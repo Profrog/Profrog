@@ -25,11 +25,9 @@ Here are some ideas to get you started:
 
 
 ![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Profrog&layout=dark&theme=merko)
 
 blog : https://blog.naver.com/ache159
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Profrog&layout=dark&theme=merko)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
