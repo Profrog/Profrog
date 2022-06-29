@@ -106,7 +106,7 @@ blog : https://blog.naver.com/ache159
   
   
 학부연구생 인하대학교 지능형 임베디드 소프트웨어 연구실(정진만 교수님) 22.06.27~  
-  
+  <br>https://github.com/Profrog/python_mrp
   
   
   
