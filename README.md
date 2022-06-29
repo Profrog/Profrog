@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Profrog&layout=radical&theme=merko)
-![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
 
 
 blog : https://blog.naver.com/ache159
@@ -34,6 +33,7 @@ blog : https://blog.naver.com/ache159
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=profrog)](https://solved.ac/profrog/)
+![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
 
 
 동아리활동 인하대 컴공 학생회 활동 16.03.31 ~ 16.12.31
