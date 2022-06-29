@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 blog : https://blog.naver.com/ache159
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Profrog&layout=dark&theme=merko)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=profrog)](https://solved.ac/profrog/)
