@@ -31,8 +31,8 @@ blog : https://blog.naver.com/ache159
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=profrog)](https://solved.ac/profrog/)
-
 
 
 동아리활동 인하대 컴공 학생회 활동 16.03.31 ~ 16.12.31
@@ -109,4 +109,4 @@ blog : https://blog.naver.com/ache159
   
   
   
-![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
+
