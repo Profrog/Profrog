@@ -31,7 +31,6 @@ blog : https://blog.naver.com/ache159
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=profrog)](https://solved.ac/profrog/)
 
 
@@ -110,3 +109,4 @@ blog : https://blog.naver.com/ache159
   
   
   
+![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
