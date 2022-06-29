@@ -1,6 +1,5 @@
 ### mingyu kim 👋 12161538
 
-![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
 
 <!--
 **Profrog/Profrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +22,9 @@ Here are some ideas to get you started:
 <a href="http://www.robozzle.com/user.aspx?name=profrog" target="_blank"><img src="https://img.shields.io/badge/robozzle-D62300?style=flat-square&logo=Burger King&logoColor=white"/></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+
+
+![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
 
 blog : https://blog.naver.com/ache159
 
