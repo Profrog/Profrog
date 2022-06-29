@@ -102,11 +102,11 @@ blog : https://blog.naver.com/ache159
  <br>link : https://blog.naver.com/ache159/222664829891
 
 자격증 컴활 1급 취득 22.03.04
- <br>https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BB%B4%ED%99%9C_1%EA%B8%89.jpg
+ <br> image : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BB%B4%ED%99%9C_1%EA%B8%89.jpg
   
   
 학부연구생 인하대학교 지능형 임베디드 소프트웨어 연구실(정진만 교수님) 22.06.27~  
-  link : https://github.com/Profrog/python_mrp
+ project : https://github.com/Profrog/python_mrp
   
   
   
