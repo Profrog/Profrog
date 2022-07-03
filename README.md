@@ -98,9 +98,8 @@ blog : https://blog.naver.com/ache159
  <br>onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850
 
 독서 100권 읽기 도전 22.02.01 ~ 
- <br>link : https://blog.naver.com/ache159/222664829891
-  
- 용인중앙도서관 독서 10000m 도전 : ~22.07.03  https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%A9%EC%9D%B8%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80.jpg 
+ <br>link : https://blog.naver.com/ache159/222664829891 
+ * 용인중앙도서관 독서 10000m 도전 : ~22.07.03      https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%A9%EC%9D%B8%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80.jpg 
  
 
 자격증 컴활 1급 취득 22.03.04
