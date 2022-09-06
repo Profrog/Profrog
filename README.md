@@ -79,7 +79,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  <br>사이트 : https://kgr9911.wixsite.com/everyweekhomework
 
 
-수상경력	IGRUS 화합챌린지 우수상 수상	20.10.10 ~ 20.10.10	O
+수상경력	IGRUS QR코드를 이용한 코로나 환자 별 상이 도어락 제어 시스템 구축 및 어플리케이션으로 화합챌린지 우수상 수상	20.10.10 ~ 20.10.10	O
  <br>project(linux_server) : https://github.com/Profrog/raspberryPI-using-Qr-code-with-doorrock-access-for-untact-service/blob/master/final.py
  <br>app : https://github.com/Profrog/app-using-qrcode-for-untact-service
  <br>시연 영상 : https://www.youtube.com/watch?v=naljLBhdZjI
