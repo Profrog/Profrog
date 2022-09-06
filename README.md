@@ -93,7 +93,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  <br>sub program : https://github.com/Profrog/yolo_scan_algorithm
  <br>test movie : https://blog.naver.com/ache159/222601182784
  
-기술지원 충남대학교 김철희 교수님 제브라피쉬 연구팀 yolo 검출 프로그램 지원 21.3.27 ~ 21.9.6
+기술지원 충남대학교 발생유전학 연구실 김철희 교수님 제브라피쉬 연구팀 yolo 검출 프로그램 지원 21.3.27 ~ 21.9.6
  <br>code : https://github.com/Profrog/yolo_scan_algorithm/blob/ImTurtle35-patch-1/yolo_webcam_count.py
  <br>영상 : https://www.youtube.com/watch?v=_04NAexi5v8
  
