@@ -34,7 +34,7 @@ blog : https://blog.naver.com/ache159
 ![Profrog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Profrog&show_icons=true&theme=highcontrast)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=profrog)](https://solved.ac/profrog/)
 
-동백고등학교 12.03.02 ~ 2015.02.10  
+동백고등학교 12.03.02 ~ 15.02.10  
 
 인하대학교 입학 16.02.29  
 
