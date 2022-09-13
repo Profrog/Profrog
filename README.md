@@ -35,6 +35,8 @@ blog : https://blog.naver.com/ache159
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=profrog)](https://solved.ac/profrog/)
 
 
+인하대학교 입학 16.02.29  
+
 동아리활동 인하대 컴공 학생회 활동 16.03.31 ~ 16.12.31
 
 동아리활동	인하대 중앙동아리 "로보트 연구회" 에서 atmega8535와 step motor 그 외 전원장치를 이용한 마이크로 마우스 기획 및 제작.	16.03.31 ~ 16.05.31	X
