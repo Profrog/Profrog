@@ -50,7 +50,7 @@ blog : https://blog.naver.com/ache159
 동아리활동	인하대 학술동아리 "igrus"에서 교무관련 운영진으로 활동하면서 운영진에서 팀원을 모아 동아리 내의 분실되는 도서 문제를 해결하기 위해 앱 제작을 시도하였습니다. .	16.03.10 ~ 16.07.07	O
 
 자격증 정보처리기능사 합격
-17.02.24
+17.07.05
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC.png
 
 수상경력	학교에서 운영하는 다학년 프로젝트에 참여 Platooning의 구현에 성공하기 위하여 라즈베리 파이 간의 통신을  mqtt로 진행하고 라즈베리_아두이노 간 통신을 serial 통신으로 진행 하는 역할을 함	
