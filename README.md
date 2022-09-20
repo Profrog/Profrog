@@ -70,7 +70,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
   <br> 사진 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/award.png
     
 
-군복무	1사단 15연대 1대대에서 포반으로 근무	17.10.10 ~ 19.02.18	O
+군복무	1사단 15연대 1대대에서 포반으로 근무	17.10.10 ~ 19.06.18	O
 
 계약직	양지 메가스터디 기숙학원 교무과 1년 근무(기본 + 연장)	19.07.22 ~ 20.04.30	O
 
