@@ -126,4 +126,9 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
 <br>repository : https://github.com/Profrog/cit_mingyu/tree/main  
   
   
-토익 610점 22.08.31
+자격증 토익 610점 22.08.31
+
+자격증 opic IM1 22.09.22
+https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.png
+
+
