@@ -97,6 +97,8 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
 
 수상경력	2021 비대면 채팅 및 공부습관 지원 어플리케이션으로 슈퍼챌린지 소프트웨어 해커톤 특별상  21.01.21 ~ 21.01.22	O
  <br>project : https://github.com/Profrog/firebase_app
+ <br>수상사진 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%8A%88%ED%8D%BC%EC%B1%8C%EB%A6%B0%EC%A7%80.png
+ 
 
 현장실습 한국철도기술연구원 ict 대중교통 연구팀에서 ros2 + yolov4 검출패키지 제작 및 관련 지원 프로그램 지원 프로젝트 진행(기본 + 연장) 21.3.2 ~ 21.08.31
  <br>main project : https://github.com/Profrog/ros2yolo_python (보고서 있음)
