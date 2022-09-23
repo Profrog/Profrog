@@ -121,6 +121,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  project : https://github.com/Profrog/python_mrp  
  test movie1 : https://www.youtube.com/watch?v=fOSTibGu1l0  
  test movie2 : https://www.youtube.com/watch?v=sng3KRxmICw  
+ one store: https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000764474  
  
 아르바이트 cit 코딩학원 과외 22.07.09 ~
 <br>repository : https://github.com/Profrog/cit_mingyu/tree/main  
