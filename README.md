@@ -84,6 +84,9 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
 봉사활동 300명 규모 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
  <br>홍보 영상 : https://www.youtube.com/watch?v=Oi94XjuaO_E
  <br>사이트 : https://kgr9911.wixsite.com/everyweekhomework
+봉사활동 매주1과제 앱 출시 21.6.30 ~ 21.8.31
+ <br>project : https://github.com/Profrog/maeju_test
+ <br>onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850 
 
 
 수상경력	IGRUS QR코드를 이용한 코로나 환자 별 상이 도어락 제어 시스템 구축 및 어플리케이션으로 화합챌린지 우수상 수상	20.10.10 ~ 20.10.10	O
@@ -104,9 +107,6 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  <br>code : https://github.com/Profrog/yolo_scan_algorithm/blob/ImTurtle35-patch-1/yolo_webcam_count.py
  <br>영상 : https://www.youtube.com/watch?v=_04NAexi5v8
  
-봉사활동 매주1과제 앱 출시 21.6.30 ~ 21.8.31
- <br>project : https://github.com/Profrog/maeju_test
- <br>onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850
 
 독서 100권 읽기 도전 22.02.01 ~ 
  <br>link : https://blog.naver.com/ache159/222664829891 
