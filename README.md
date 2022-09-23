@@ -83,7 +83,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
 
 봉사활동 300명 규모 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
  <br>홍보 영상 : https://www.youtube.com/watch?v=Oi94XjuaO_E
- <br>사이트 : https://kgr9911.wixsite.com/everyweekhomework
+ <br>사이트 : https://kgr9911.wixsite.com/everyweekhomework  
 봉사활동 매주1과제 앱 출시 21.6.30 ~ 21.8.31
  <br>project : https://github.com/Profrog/maeju_test
  <br>onestore : https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000757850 
