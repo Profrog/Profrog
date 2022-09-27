@@ -65,6 +65,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
   <br>(시연 동영상 : https://www.youtube.com/watch?v=5tsH03EbstE)	
 
 수상경력	make-a-ton 대회에서 화재 상황 별 탈출루트 모델 설계로 우수상 수상 17.03.09 ~ 17.06.06	X
+https://m.onoffmix.com/event/110440  
  <br>project : https://github.com/Profrog/Make-Graph-and-find-the-shortest-Root-
   <br>(코드작동 동영상 : https://www.youtube.com/watch?v=9HfEB9ufzn0)	
   <br> 사진 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/award.png
