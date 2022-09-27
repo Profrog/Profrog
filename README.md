@@ -53,7 +53,7 @@ blog : https://blog.naver.com/ache159
 
 동아리활동	인하대 학술동아리 "igrus"에서 교무관련 운영진으로 활동하면서 운영진에서 팀원을 모아 동아리 내의 분실되는 도서 문제를 해결하기 위해 앱 제작을 시도하였습니다. .	16.03.10 ~ 16.07.07	O
 
-자격증 정보처리기능사 합격
+자격증 정보처리기능사 합격(한국산업인력공단)
 17.07.05
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC.png
 
@@ -78,7 +78,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  <br>시연영상1 : https://www.youtube.com/watch?v=tQvN8jMyIcU
  <br>시연영상2 : https://www.youtube.com/watch?v=2H1D9SkBC3E
 
-자격증 운전면허 2종 보통 취득 20.09.01
+자격증 운전면허 2종 보통 취득(경기남부지방경찰청) 20.09.01
 <br>https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88.jpg
 
 봉사활동 300명 규모 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
@@ -115,7 +115,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  * 용인중앙도서관 독서 10000m 도전 : ~22.07.03      https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%A9%EC%9D%B8%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80.jpg 
  
 
-자격증 컴활 1급 취득 22.03.04
+자격증 컴활 1급 취득(대한상공회의소) 22.03.04
  <br> image : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BB%B4%ED%99%9C_1%EA%B8%89.jpg
   
   
