@@ -38,6 +38,8 @@ blog : https://blog.naver.com/ache159
 
 가천대학교 입학 15.03.02
 
+아르바이트 에버랜드 사진 찍기&판매 2015
+
 독학 반수 & 
 
 인하대학교 입학 16.02.29  
@@ -52,6 +54,8 @@ blog : https://blog.naver.com/ache159
     <br>(최근에 약간 복구하여서 다시 돌려보았는데 그것을 실험한 블로그 링크(제블로그))	16.03.17 ~ 16.06.16	O
 
 동아리활동	인하대 학술동아리 "igrus"에서 교무관련 운영진으로 활동하면서 운영진에서 팀원을 모아 동아리 내의 분실되는 도서 문제를 해결하기 위해 앱 제작을 시도하였습니다. .	16.03.10 ~ 16.07.07	O
+
+아르바이트 상하차 2016
 
 자격증 정보처리기능사 합격(한국산업인력공단)
 17.07.05
@@ -69,7 +73,8 @@ https://m.onoffmix.com/event/110440
  <br>project : https://github.com/Profrog/Make-Graph-and-find-the-shortest-Root-
   <br>(코드작동 동영상 : https://www.youtube.com/watch?v=9HfEB9ufzn0)	
   <br> 사진 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/award.png
-    
+
+아르바이트 세븐일레븐 편의점 2017
 
 군복무	1사단 15연대 1대대에서 포반으로 근무	17.10.10 ~ 19.06.18	O
 
