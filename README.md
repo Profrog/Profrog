@@ -140,4 +140,5 @@ https://m.onoffmix.com/event/110440
 자격증 opic IM1(ACTFL) 22.09.22
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.png
 
-
+체스체스 소모임 운영 22.05.01~  
+오픈채팅방 링크 : https://open.kakao.com/o/gxLp60de  
