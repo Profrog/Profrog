@@ -87,7 +87,7 @@ https://m.onoffmix.com/event/110440
 자격증 운전면허 2종 보통 취득(경기남부지방경찰청) 20.09.01
 <br>https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88.jpg
 
-봉사활동 300명 규모 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
+봉사활동 100명 이상 규모 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
  <br>홍보 영상 : https://www.youtube.com/watch?v=Oi94XjuaO_E
  <br>사이트 : https://kgr9911.wixsite.com/everyweekhomework  
 봉사활동 매주1과제 앱 출시 21.6.30 ~ 21.8.31
