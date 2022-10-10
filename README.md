@@ -141,5 +141,5 @@ https://m.onoffmix.com/event/110440
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.png
 
 30명 규모 인천 연합 체스체스 소모임 설립 및 운영 22.05.01~  
-오픈채팅방 링크 : https://open.kakao.com/o/gxLp60de
+오픈채팅방 링크 : https://open.kakao.com/o/gxLp60de  
 방장 프로필(pprofrog) : https://www.chess.com/member/pprofrog
