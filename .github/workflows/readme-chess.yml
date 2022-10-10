@@ -2,7 +2,7 @@ name: Update chess data on README.md
 
 on:
   schedule:
-    - cron: '48 3 * * *'
+    - cron: '14 4 * * *'
   workflow_dispatch:
   
 jobs:
