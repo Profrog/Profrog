@@ -152,7 +152,7 @@ https://m.onoffmix.com/event/110440
  one store: https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000764474  
  
 아르바이트 cit 코딩학원 과외 22.07.09 ~
-<br>repository : https://github.com/Profrog/cit_mingyu/tree/main
+<br>repository : https://github.com/Profrog/cit_mingyu/tree/main  
 robozzle profle : http://www.robozzle.com/user.aspx?name=profrog   
   
   
