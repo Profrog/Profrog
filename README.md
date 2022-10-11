@@ -121,7 +121,6 @@ https://m.onoffmix.com/event/110440
  <br>app : https://github.com/Profrog/app-using-qrcode-for-untact-service
  <br>시연 영상 : https://www.youtube.com/watch?v=naljLBhdZjI
 
-
 수상경력	2021 비대면 채팅 및 공부습관 지원 어플리케이션으로 슈퍼챌린지 소프트웨어 해커톤 특별상  21.01.21 ~ 21.01.22	O
  <br>project : https://github.com/Profrog/firebase_app
  <br>수상사진 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%8A%88%ED%8D%BC%EC%B1%8C%EB%A6%B0%EC%A7%80.png
@@ -153,7 +152,8 @@ https://m.onoffmix.com/event/110440
  one store: https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000764474  
  
 아르바이트 cit 코딩학원 과외 22.07.09 ~
-<br>repository : https://github.com/Profrog/cit_mingyu/tree/main  
+<br>repository : https://github.com/Profrog/cit_mingyu/tree/main
+robozzle profle : http://www.robozzle.com/user.aspx?name=profrog   
   
   
 자격증 토익 610점(ETS) 22.08.31
