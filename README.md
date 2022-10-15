@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Profrog&layout=radical&theme=merko)
+
 
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
