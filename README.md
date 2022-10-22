@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1236 | 1006 |
+| Current | 1517 | 1233 | 1006 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **pprofrog** | Andres_Opeth | resigned ❌ | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2r1k1/ppp2pp1/3b1q2/3pQ2b/8/3B3P/PPPP1PP1/RNB1K2R w KQ -">Link</a> | Blitz |
+| **pprofrog** | kazplayz | win 🥇 | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/2q3p1/3p1pQ1/2rP1P2/2P5/6P1/5PKP/8 b - -">Link</a> | Blitz |
 | leone24 | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r6/6R1/1P3p1p/2K1pk2/8/5PPP/8 b - -">Link</a> | Blitz |
 | **pprofrog** | tluke314 | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp2kppp/4pn2/3P4/5r2/P4P2/1P1R2PP/1R4K1 w - -">Link</a> | Blitz |
 | SpotsKobayashi | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/pp1nqppp/3pb3/b2P4/2B2B2/2P2N2/PP4PP/RN1QR1K1 b kq -">Link</a> | Blitz |
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 | CafeCerise | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R1pk/2p2r1p/1pNp4/1P3r2/2PP4/4RP2/5K2 b - -">Link</a> | Blitz |
 | fajl1p | **pprofrog** | repetition ⏸️ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/kp6/p7/3p1P2/2qP4/P7/KP6/8 w - -">Link</a> | Blitz |
 | Erf_Erf | **pprofrog** | win 🥇 | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/ppp3pp/2bp1n2/4N3/P7/2PP4/1P1NBPqP/R1BQ1RK1 w kq -">Link</a> | Blitz |
-| fmlakhani | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/pppq1ppp/3p1n2/2b1p3/PP2P3/3P1B2/2PB1PPP/RN1QK2R b KQkq -">Link</a> | Blitz |
-| Gorillachamp | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1b1r1k2/p4ppp/PpBpq3/3N4/2Q4P/6P1/1PP2P2/5RK1 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
