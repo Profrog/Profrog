@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **pprofrog** | parkJH_501 | timeout ❌ | 25/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1r2/pppqn2p/2bp3b/4B1p1/4P3/1QN5/PPP2PPP/1K1R1B1R w - - 1 16">Link</a> | Daily |
+| **pprofrog** | dotori100 | timeout ❌ | 24/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2nr/1b1pbk1p/pp1Q1p2/n5p1/B7/P4N2/1PP2PPP/RNB1R1K1 w - - 1 13">Link</a> | Daily |
 | hearthstone96 | **pprofrog** | win 🥇 | 23/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/p2K2p1/8/5k2/4p3/8 w - -">Link</a> | Rapid |
 | **pprofrog** | hearthstone96 | win 🥇 | 23/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6kr/8/2R5/3p1Np1/3P4/4P3/2P2K2/7R w - -">Link</a> | Rapid |
 | **pprofrog** | Andres_Opeth | resigned ❌ | 21/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2r1k1/ppp2pp1/3b1q2/3pQ2b/8/3B3P/PPPP1PP1/RNB1K2R w KQ -">Link</a> | Blitz |
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 | **pprofrog** | tluke314 | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp2kppp/4pn2/3P4/5r2/P4P2/1P1R2PP/1R4K1 w - -">Link</a> | Blitz |
 | SpotsKobayashi | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/pp1nqppp/3pb3/b2P4/2B2B2/2P2N2/PP4PP/RN1QR1K1 b kq -">Link</a> | Blitz |
 | anub78 | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k3r1r1/p7/2R5/1pP5/1b1P1pP1/1P3N1P/PR3PK1/8 b - -">Link</a> | Blitz |
-| Mb1984yoyo | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/2p1kp2/2P1pr1p/4K2P/1N3PP1/1b6/3R4 b - -">Link</a> | Blitz |
-| CafeCerise | **pprofrog** | resigned ❌ | 20/10/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R1pk/2p2r1p/1pNp4/1P3r2/2PP4/4RP2/5K2 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
