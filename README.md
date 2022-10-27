@@ -160,7 +160,8 @@ robozzle profle : http://www.robozzle.com/user.aspx?name=profrog
   
 자격증 토익 610점(ETS) 22.08.31
 
-자격증 opic IM1(ACTFL) 22.09.22
+자격증 opic IM1(ACTFL) 22.09.22  
+수험번호 : 2B7853829206  
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.png
 
 30명 규모 인천 연합 체스체스 소모임 설립 및 운영 22.05.01~  
