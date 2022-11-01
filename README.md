@@ -143,7 +143,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  * 용인중앙도서관 독서 10000m 도전 : ~22.07.03      https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%A9%EC%9D%B8%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80.jpg 
  
 
-자격증 컴활 1급 취득(대한상공회의소) 자격번호 : 22-22.03.04
+자격증 컴활 1급 취득(대한상공회의소) 자격번호 : 22-k9-019617  : 22.03.04
  <br> image : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BB%B4%ED%99%9C_1%EA%B8%89.jpg
   
   
