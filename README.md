@@ -78,7 +78,7 @@ blog : https://blog.naver.com/ache159
 
 아르바이트 상하차 2016
 
-자격증 정보처리기능사 합격(한국산업인력공단)
+자격증 정보처리기능사 합격(한국산업인력공단) 자격증 번호 : 17847690109U  
 17.07.05
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC.png
 
