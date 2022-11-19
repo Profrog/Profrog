@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1344 | 989 |
+| Current | 1517 | 1339 | 979 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **pprofrog** | juanjo295 | resigned ❌ | 18/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p5pp/2k5/1pb5/2Kp1Bp1/6P1/PPP5/4R3 w - b6">Link</a> | Blitz |
+| **pprofrog** | ShoxruxYusupov2507 | timeout ❌ | 18/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/6pp/B4p2/4p3/3rN3/8/PPKB2PP/3R4 w - -">Link</a> | Bullet |
 | tvshamnas | **pprofrog** | timeout ❌ | 15/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rq2k1/pb3rp1/4p1np/2Npn3/1P6/4P2P/P1Q1BPP1/R1B2RK1 b - b3">Link</a> | Bullet |
 | rogerak0 | **pprofrog** | resigned ❌ | 15/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbR1k2/pp3p1p/8/2p5/8/1B5N/PP4rP/2K1R3 b - -">Link</a> | Bullet |
 | **pprofrog** | PeterD7001 | win 🥇 | 15/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rq1k1r2/p1pQRp1p/5Pp1/3p4/8/2N1P1P1/P1PK3P/8 b - -">Link</a> | Blitz |
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 | aristogitone | **pprofrog** | resigned ❌ | 15/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q3k1r1/3p1p2/3Pp1pb/p3P2p/1pqN1P2/6P1/PP4P1/R3K2R b KQ -">Link</a> | Blitz |
 | **pprofrog** | King2Pwn | win 🥇 | 15/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1r1k/1ppb1Np1/1pnp3p/5p2/2Q2PP1/3B4/PPP4P/2KR3R b - -">Link</a> | Blitz |
 | **pprofrog** | Flograt | resigned ❌ | 14/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2n5/5p2/5k2/6p1/2PNP2p/5P1P/rpPR2PK/8 w - -">Link</a> | Blitz |
-| tpjs1003 | **pprofrog** | resigned ❌ | 13/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q5/p4rpk/1p2R2p/3nBp2/1P6/PQ2PPP1/5K1P/8 w - -">Link</a> | Rapid |
-| **pprofrog** | HSkog | win 🥇 | 12/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/3p1ppp/p3pn2/1p6/2P5/1B2PQ2/Pq4PP/1R3RK1 b kq -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
