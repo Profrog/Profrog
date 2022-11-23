@@ -164,6 +164,11 @@ robozzle profle : http://www.robozzle.com/user.aspx?name=profrog
 인증서번호 : WQN5-4CI4-9ØZØ-SI1H-S8JL
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.png
 
-30명 규모 인천 연합 체스체스 소모임 설립 및 운영 22.05.01~  
+30명 규모 인천 연합 체스체스 소모임 설립 및 인하대 체크메이트 설립 및 운영 22.05.01~  
 오픈채팅방 링크 : https://open.kakao.com/o/gxLp60de  
 방장 프로필(pprofrog) : https://www.chess.com/member/pprofrog
+
+프로젝트 360 view 이미지 데이터를 바탕으로 3d 모델링을 생성하는 통합 프로그램 개발 진행  
+repository : https://github.com/Profrog/2022competition    
+영상시연 : https://www.youtube.com/watch?v=zBPwgLPdnxA  
+
