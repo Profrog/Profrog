@@ -172,3 +172,8 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.pn
 repository : https://github.com/Profrog/2022competition    
 영상시연 : https://www.youtube.com/watch?v=zBPwgLPdnxA  
 
+자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  
+링크 :   
+
+
+
