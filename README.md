@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **pprofrog** | ki12222 | insufficient ⏸️ | 25/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/8/4Kn2/8/4n3/8/8/8 w - -">Link</a> | Rapid |
 | **pprofrog** | tousiksamui | win 🥇 | 23/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/3q1ppp/1Npb4/pp1p3b/3PpPnP/4B1PN/PPPQP3/2KR3R b - -">Link</a> | Blitz |
 | Ascaram | **pprofrog** | resigned ❌ | 23/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/2p3pp/p1Qq4/4p3/2Pp4/N2Pn1P1/PP2P1BP/R5K1 b - -">Link</a> | Blitz |
 | MagomedA | **pprofrog** | resigned ❌ | 23/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r1bnr/1p3ppp/p4q2/2p3B1/P1Np2Q1/3P3P/1PP2PP1/R4RK1 b - -">Link</a> | Blitz |
@@ -44,7 +45,6 @@ Here are some ideas to get you started:
 | chaisecasser | **pprofrog** | win 🥇 | 22/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk2r/1p2p3/3p2p1/6P1/p1PqP1B1/2bP4/P1P1K2Q/1R3R2 w - -">Link</a> | Blitz |
 | 0lav | **pprofrog** | win 🥇 | 22/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1kb2/1pp5/p7/3prb2/3n4/3P4/PPPK2PP/R1BB2R1 w - -">Link</a> | Blitz |
 | **pprofrog** | GRP1234 | resigned ❌ | 22/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bnr/pQ4pp/4p3/7B/2q1b3/4P3/PP3PkP/R1B1K2R w KQ -">Link</a> | Blitz |
-| jcifuentes | **pprofrog** | win 🥇 | 22/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/pp2q2p/6pk/3b4/8/1P2P3/P1P2PPP/R4RK1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
