@@ -147,13 +147,13 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  <br> image : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BB%B4%ED%99%9C_1%EA%B8%89.jpg
   
   
-학부연구생 인하대학교 지능형 임베디드 소프트웨어 연구실 : IESW (정진만 교수님) 22.06.27~  
+학부연구생 인하대학교 지능형 임베디드 소프트웨어 연구실 : IESW (정진만 교수님) 22.06.27 ~ 22.12.23  
  project : https://github.com/Profrog/python_mrp  
  test movie1 : https://www.youtube.com/watch?v=fOSTibGu1l0  
  test movie2 : https://www.youtube.com/watch?v=sng3KRxmICw  
  one store: https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000764474  
  
-아르바이트 cit 코딩학원 과외 22.07.09 ~
+아르바이트 cit 코딩학원 과외 22.07.09 ~ 
 <br>repository : https://github.com/Profrog/cit_mingyu/tree/main  
 robozzle profle : http://www.robozzle.com/user.aspx?name=profrog   
   
@@ -164,17 +164,17 @@ robozzle profle : http://www.robozzle.com/user.aspx?name=profrog
 인증서번호 : WQN5-4CI4-9ØZØ-SI1H-S8JL
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.png
 
-30명 규모 인천 연합 체스체스 소모임 설립 및 인하대 체크메이트 설립 및 운영 22.05.01~  
+30명 규모 인천 연합 체스체스 소모임 설립 및 인하대 체크메이트 설립 및 운영 22.05.01~ 22.12.16 
 오픈채팅방 링크 : https://open.kakao.com/o/gxLp60de  
 방장 프로필(pprofrog) : https://www.chess.com/member/pprofrog
 
-프로젝트 360 view 이미지 데이터를 바탕으로 3d 모델링을 생성하는 통합 프로그램 개발 진행  
+프로젝트 360 view 이미지 데이터를 바탕으로 3d 모델링을 생성하는 통합 프로그램 개발 진행 22.09.01 ~ 22.12.14
 repository : https://github.com/Profrog/2022competition    
 영상시연 : https://www.youtube.com/watch?v=zBPwgLPdnxA  
 
-자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  
+자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  22.11.27
 링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC.png  
 
-자격증 topcit level 2  응시번호 : TP22020320032  
-링크 : 
+자격증 topcit level 2  응시번호 : TP22020320032  22.11.28
+링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/topcit.png  
 
