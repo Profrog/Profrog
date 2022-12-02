@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1186 | 979 |
+| Current | 1517 | 1197 | 979 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| alematos | **pprofrog** | win 🥇 | 2/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/p1p4p/8/5pp1/1bNp1N2/3P1PP1/PP3K1P/R1B1r2b w - g6">Link</a> | Blitz |
 | inmatehell | **pprofrog** | checkmated ❌ | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4q1k/7Q/1p3N2/p3p3/P1p1PP2/1B1bK2P/1P2N1r1/3R4 b - -">Link</a> | Blitz |
 | ressen2022 | **pprofrog** | resigned ❌ | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1bnr/pppp2pp/7k/5Q2/2BPP3/8/PPP2PPP/RNB1K2R b KQ d3">Link</a> | Blitz |
 | **pprofrog** | AlexBacalso | resigned ❌ | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr3/1pp2k1p/4b1pB/p3p3/1bQnP3/N7/PPP2P1P/2K1R2R w - -">Link</a> | Blitz |
@@ -44,7 +45,6 @@ Here are some ideas to get you started:
 | louiscastel | **pprofrog** | win 🥇 | 29/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3p1kP1/1ppb1PN1/2n5/2b5/4K3/2B5 w - -">Link</a> | Blitz |
 | **pprofrog** | Biswa99 | checkmated ❌ | 29/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/7k/2R1R3/3p4/p7/P1P3PP/1r3rK1 w - -">Link</a> | Blitz |
 | alesha1988 | **pprofrog** | resigned ❌ | 29/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rkb/p2p3p/b5pN/2qB4/1p1n4/8/P2R1PPP/3QR1K1 b - -">Link</a> | Blitz |
-| Razorpikmin | **pprofrog** | win 🥇 | 29/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1pp2Qpp/1pq5/1K6/1P2P3/3r2P1/5P1P/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
