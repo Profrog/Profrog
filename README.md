@@ -171,7 +171,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.pn
 프로젝트 360 view 이미지 데이터를 바탕으로 3d 모델링을 생성하는 통합 프로그램 개발 진행 22.09.01 ~ 22.12.14
 repository : https://github.com/Profrog/2022competition    
 영상시연 : https://www.youtube.com/watch?v=zBPwgLPdnxA  
-보고서 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/3D%EB%A1%9C%ED%8C%8C%EC%9D%B4_12161538%EA%B9%80%EB%AF%BC%EA%B7%9C_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
+보고서 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/3D%EB%A1%9C%ED%8C%8C%EC%9D%B4_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf  
 
 자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  22.11.27
 링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC.png  
