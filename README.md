@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1144 | 979 |
+| Current | 1517 | 1126 | 979 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **pprofrog** | Maltod3xtrin | resigned ❌ | 30/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppB2p2/4p2p/3p2p1/3P4/5N2/PPP1PnPP/2KR1B1R w - -">Link</a> | Blitz |
+| **pprofrog** | Chitaku | resigned ❌ | 30/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/pppp1p1p/2n3p1/4p2Q/2Bbq3/4B3/PPP2P1P/RN2KR2 w Qkq -">Link</a> | Blitz |
 | **pprofrog** | alexxx61 | resigned ❌ | 29/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p2p2pp/3Pp3/3kPnKP/1PN5/P7/8 w - -">Link</a> | Blitz |
 | bawue2022 | **pprofrog** | resigned ❌ | 29/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pppq1ppp/8/3Pp3/2Q5/5N2/PP2PPPP/RNB1KB1R b KQkq -">Link</a> | Blitz |
 | **pprofrog** | AVJunkie | resigned ❌ | 29/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/1b3p1p/2n3pb/p1p1p3/2PpPP2/PP4P1/3QN1BP/1R3RK1 w - -">Link</a> | Blitz |
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 | **pprofrog** | sanpancraci | resigned ❌ | 29/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pppb1ppp/4pn2/3p4/1n1P4/2NQPN2/PPPB1PPP/R3KB1R w KQkq -">Link</a> | Blitz |
 | SpicedWater | **pprofrog** | win 🥇 | 29/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p3p1/8/5k2/3p4/2p5/r7/2K4q w - -">Link</a> | Blitz |
 | tomi007 | **pprofrog** | win 🥇 | 29/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/ppp2pp1/4pnp1/3p2Nr/1nPP3P/2NKP3/PP4q1/R2Q3R w q -">Link</a> | Blitz |
-| **pprofrog** | pedrocort | resigned ❌ | 28/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q4k1/5pp1/4p2p/R2p4/3P4/4P1P1/5P1P/1r1Q2K1 w - -">Link</a> | Blitz |
-| **pprofrog** | JordanMoelis2 | resigned ❌ | 28/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pBp2p1p/1p4p1/4n3/8/B1P2P2/P1P1nP1P/2KR4 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
