@@ -179,7 +179,7 @@ repository : https://github.com/Profrog/2022competition
 자격증 topcit level 2  응시번호 : TP22020320032  22.11.28
 링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/topcit.png  
 
-수상경력 lofi모듈을 바탕으로 한 나만의 문화재 키링 만들기 23.01.03  
+수상경력 lofi모듈을 바탕으로 한 나만의 문화재 키링 만들기(최우수상) 23.01.03  
 대회요강 https://gb.tourbiz.or.kr/notice/463  
 
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%EB%B0%9C%ED%91%9C2022%20%EA%B2%BD%EB%B6%81%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B4%80%EA%B4%91%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84.pdf  
