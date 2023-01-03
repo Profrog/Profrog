@@ -153,7 +153,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
  test movie2 : https://www.youtube.com/watch?v=sng3KRxmICw  
  one store: https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000764474  
  
-아르바이트 cit 코딩학원 과외 22.07.09 ~ 
+아르바이트 cit 코딩학원 과외 22.07.09 ~ 23.01.07
 <br>repository : https://github.com/Profrog/cit_mingyu/tree/main  
 robozzle profle : http://www.robozzle.com/user.aspx?name=profrog   
   
@@ -171,11 +171,19 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.pn
 프로젝트 360 view 이미지 데이터를 바탕으로 3d 모델링을 생성하는 통합 프로그램 개발 진행 22.09.01 ~ 22.12.14
 repository : https://github.com/Profrog/2022competition    
 영상시연 : https://www.youtube.com/watch?v=zBPwgLPdnxA  
-보고서 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/3D%EB%A1%9C%ED%8C%8C%EC%9D%B4_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf  
+보고서 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/3D%EB%A1%9C%ED%8C%8C%EC%9D%B4_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf 
 
-자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  22.11.27
+자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  22.11.27 
 링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC.png  
 
 자격증 topcit level 2  응시번호 : TP22020320032  22.11.28
 링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/topcit.png  
 
+수상경력 lofi모듈을 바탕으로 한 나만의 문화재 키링 만들기 23.01.03  
+대회요강 https://gb.tourbiz.or.kr/notice/463  
+
+https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%EB%B0%9C%ED%91%9C2022%20%EA%B2%BD%EB%B6%81%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B4%80%EA%B4%91%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84.pdf  
+
+종설팀원(김민규, 김정진, 백운영) 구성 그대로 대회에 참여(상금 200만원)
+
+ 
