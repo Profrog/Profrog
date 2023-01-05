@@ -188,4 +188,6 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%B5%
 
 종설팀원(김민규, 김정진, 백운영) 구성 그대로 대회에 참여(상금 200만원)
 
- 
+교육활동 삼성 청년 SW 아카데미(ssafy) 서울 캠퍼스 9기 임베디드반 23.01.04 ~   
+합격인증 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%82%BC%EC%84%B1%20ssafy%20%EC%9E%85%ED%95%99.jpg  
+
