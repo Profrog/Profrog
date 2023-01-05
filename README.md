@@ -172,6 +172,8 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.pn
 repository : https://github.com/Profrog/2022competition    
 영상시연 : https://www.youtube.com/watch?v=zBPwgLPdnxA  
 보고서 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/3D%EB%A1%9C%ED%8C%8C%EC%9D%B4_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf 
+상장 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%83%81%EC%9E%A5(%EC%9A%B0%EC%88%98%EB%B0%9C%ED%91%9C%EC%83%81_%EA%B9%80%EB%AF%BC%EA%B7%9C).pdf  
+
 
 자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  22.11.27 
 링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC.png  
