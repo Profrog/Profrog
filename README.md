@@ -187,6 +187,7 @@ repository : https://github.com/Profrog/2022competition
 lofi팀원(김민규, 김정진, 백운영) 구성 그대로 대회에 참여(상금 200만원)  
 https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%EB%B0%9C%ED%91%9C2022%20%EA%B2%BD%EB%B6%81%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B4%80%EA%B4%91%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84.pdf
 
+상장 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EA%B2%BD%EC%A3%BC%EC%83%81%EC%9E%A5.jpg  
 시상식 발표 : https://www.instagram.com/reel/CnQ5sOLp1ku/?igshid=NTU1Mzc3ZGM=  
 
 교육활동 삼성 청년 SW 아카데미(ssafy) 서울 캠퍼스 9기 임베디드반 23.01.04 ~   
