@@ -80,7 +80,7 @@ blog : https://blog.naver.com/ache159
 
 자격증 정보처리기능사 합격(한국산업인력공단) 자격증 번호 : 17847690109U  
 17.07.05
-https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC.png
+https://url.kr/zbpu9r  
 
 수상경력	학교에서 운영하는 다학년 프로젝트에 참여 Platooning의 구현에 성공하기 위하여 라즈베리 파이 간의 통신을  mqtt로 진행하고 라즈베리_아두이노 간 통신을 serial 통신으로 진행 하는 역할을 함	
 17.03.16 ~ 17.06.08	X
@@ -92,7 +92,7 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%
 수상경력	make-a-ton 대회에서 화재 상황 별 탈출루트 모델 설계로 우수상 수상 17.03.09 ~ 17.06.06	X
  <br>project : https://github.com/Profrog/Make-Graph-and-find-the-shortest-Root-
  <br>(코드작동 동영상 : https://www.youtube.com/watch?v=9HfEB9ufzn0)	
- <br> 사진 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/award.png
+ <br> 사진 : https://url.kr/7ajlr9  
  <br>https://m.onoffmix.com/event/110440      
 
 아르바이트 세븐일레븐 편의점 2017
