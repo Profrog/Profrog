@@ -165,7 +165,7 @@ robozzle profle : http://www.robozzle.com/user.aspx?name=profrog
 인증서번호 : WQN5-4CI4-9ØZØ-SI1H-S8JL
 https://url.kr/i2zm46  
 
-30명 규모 인천 연합 체스체스 소모임 설립 및 인하대 체크메이트 설립 및 운영 22.05.01~ 22.12.16 
+30명 규모 인천 연합 체스체스 소모임 설립 및 인하대 체크메이트 설립 및 운영 22.05.01~ 22.12.16    
 오픈채팅방 링크 : https://open.kakao.com/o/gxLp60de  
 방장 프로필(pprofrog) : https://www.chess.com/member/pprofrog
 
