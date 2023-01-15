@@ -108,7 +108,7 @@ https://url.kr/zbpu9r
  <br>시연영상2 : https://www.youtube.com/watch?v=2H1D9SkBC3E
 
 자격증 운전면허 2종 보통 취득(경기남부지방경찰청) 20.09.01
-<br>https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88.jpg
+<br>https://url.kr/l2vaib  
 
 봉사활동 100명 이상 규모 프로그래밍 연습습관 스터디 매주1과제 설립 20.10.01 ~ 22.02.28
  <br>홍보 영상 : https://www.youtube.com/watch?v=Oi94XjuaO_E
@@ -119,13 +119,13 @@ https://url.kr/zbpu9r
 
 
 수상경력	IGRUS QR코드를 이용한 코로나 환자 별 상이 도어락 제어 시스템 구축 및 어플리케이션으로 화합챌린지 우수상 수상	20.10.10 ~ 20.10.10	O
- <br>project(linux_server) : https://github.com/Profrog/raspberryPI-using-Qr-code-with-doorrock-access-for-untact-service/blob/master/final.py
+ <br>project(linux_server) : https://url.kr/n3kayo  
  <br>app : https://github.com/Profrog/app-using-qrcode-for-untact-service
  <br>시연 영상 : https://www.youtube.com/watch?v=naljLBhdZjI
 
 수상경력	2021 비대면 채팅 및 공부습관 지원 어플리케이션으로 슈퍼챌린지 소프트웨어 해커톤 특별상  21.01.21 ~ 21.01.22	O
  <br>project : https://github.com/Profrog/firebase_app
- <br>수상사진 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%8A%88%ED%8D%BC%EC%B1%8C%EB%A6%B0%EC%A7%80.png
+ <br>수상사진 : https://url.kr/2g1idt  
  
 
 현장실습 한국철도기술연구원 ict 대중교통 연구팀에서 ros2 + yolov4 검출패키지 제작 및 관련 지원 프로그램 지원 프로젝트 진행(기본 + 연장) 21.3.2 ~ 21.08.31
@@ -134,17 +134,18 @@ https://url.kr/zbpu9r
  <br>test movie : https://blog.naver.com/ache159/222601182784
  
 기술지원 충남대학교 발생유전학 연구실 김철희 교수님 제브라피쉬 연구팀 yolo 검출 프로그램 지원 21.3.27 ~ 21.9.6
- <br>code : https://github.com/Profrog/yolo_scan_algorithm/blob/ImTurtle35-patch-1/yolo_webcam_count.py
+ <br>code : https://url.kr/9cofyx  
  <br>영상 : https://www.youtube.com/watch?v=_04NAexi5v8
  
 
 독서 100권 읽기 도전 22.02.01 ~ 
  <br>link : https://blog.naver.com/ache159/222664829891 
- * 용인중앙도서관 독서 10000m 도전 : ~22.07.03      https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9A%A9%EC%9D%B8%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80.jpg 
+ * 용인중앙도서관 독서 10000m 도전 : ~22.07.03      
+ * https://url.kr/hjnc7e  
  
 
 자격증 컴활 1급 취득(대한상공회의소) 자격번호 : 22-K9-019617  : 22.03.04
- <br> image : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BB%B4%ED%99%9C_1%EA%B8%89.jpg
+ <br> image : https://url.kr/j5vlod  
   
   
 학부연구생 인하대학교 지능형 임베디드 소프트웨어 연구실 : IESW (정진만 교수님) 22.06.27 ~ 22.12.23  
@@ -162,7 +163,7 @@ robozzle profle : http://www.robozzle.com/user.aspx?name=profrog
 
 자격증 opic IM1(ACTFL) 22.09.22  
 인증서번호 : WQN5-4CI4-9ØZØ-SI1H-S8JL
-https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.png
+https://url.kr/i2zm46  
 
 30명 규모 인천 연합 체스체스 소모임 설립 및 인하대 체크메이트 설립 및 운영 22.05.01~ 22.12.16 
 오픈채팅방 링크 : https://open.kakao.com/o/gxLp60de  
@@ -171,25 +172,25 @@ https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/opic.pn
 프로젝트 360 view 이미지 데이터를 바탕으로 3d 모델링을 생성하는 통합 프로그램 개발 진행 22.09.01 ~ 22.12.14
 repository : https://github.com/Profrog/2022competition    
 영상시연 : https://www.youtube.com/watch?v=zBPwgLPdnxA  
-보고서 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/3D%EB%A1%9C%ED%8C%8C%EC%9D%B4_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf   
-상장 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%83%81%EC%9E%A5(%EC%9A%B0%EC%88%98%EB%B0%9C%ED%91%9C%EC%83%81_%EA%B9%80%EB%AF%BC%EA%B7%9C).pdf  
+보고서 : https://url.kr/e8artp    
+상장 : https://url.kr/tmwfjx    
 
 
 자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  22.11.27 
-링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC.png  
+링크 : https://url.kr/osni2b   
 
 자격증 topcit level 2  응시번호 : TP22020320032  22.11.28
-링크 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/topcit.png  
+링크 : https://url.kr/ed5miy   
 
 수상경력 경상북도문화관광공사가 주최한 2022 경북 스마트관광 아이디어 공모전에서 lofi모듈을 바탕으로 한 나만의 문화재 키링 만들기 아이디어로 최우수상 수상 23.01.03  
 대회요강 https://gb.tourbiz.or.kr/notice/463  
 
 lofi팀원(김민규, 김정진, 백운영) 구성 그대로 대회에 참여(상금 200만원)  
-https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%EB%B0%9C%ED%91%9C2022%20%EA%B2%BD%EB%B6%81%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B4%80%EA%B4%91%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84.pdf
+https://url.kr/ptsb4x  
 
-상장 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EA%B2%BD%EC%A3%BC%EC%83%81%EC%9E%A5.jpg  
+상장 : https://url.kr/f875yb    
 시상식 발표 : https://www.instagram.com/reel/CnQ5sOLp1ku/?igshid=NTU1Mzc3ZGM=  
 
 교육활동 삼성 청년 SW 아카데미(ssafy) 서울 캠퍼스 9기 임베디드반 23.01.04 ~   
-합격인증 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%82%BC%EC%84%B1%20ssafy%20%EC%9E%85%ED%95%99.jpg  
+합격인증 : https://url.kr/uvf5xd  
 
