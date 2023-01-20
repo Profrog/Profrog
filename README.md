@@ -191,6 +191,9 @@ https://url.kr/ptsb4x
 상장 : https://url.kr/f875yb    
 시상식 발표 : https://www.instagram.com/reel/CnQ5sOLp1ku/?igshid=NTU1Mzc3ZGM=  
 
-교육활동 삼성 청년 SW 아카데미(ssafy) 서울 캠퍼스 9기 임베디드반 23.01.04 ~   
+교육활동 삼성 청년 SW 아카데미(ssafy) 서울 캠퍼스 9기 임베디드반 23.01.04 ~  23.01.25
 합격인증 : https://url.kr/uvf5xd  
+단기간 웹 프로젝트 진행 : https://github.com/Profrog/web_with_sa  
+
+
 
