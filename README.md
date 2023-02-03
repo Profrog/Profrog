@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1048 | 979 |
+| Current | 1517 | 1056 | 979 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kongcleve | **pprofrog** | win 🥇 | 2/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3R2pk/5r1p/4K1pP/8/4n3/8 w - -">Link</a> | Blitz |
+| ZEKO10555 | **pprofrog** | repetition ⏸️ | 2/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b3k1/1p2r1pr/pRp1p1Rp/2P1B2P/P2P1P2/3K4/8/8 b - -">Link</a> | Blitz |
 | **pprofrog** | nondercrom | win 🥇 | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/ppk2p2/2p2p2/Q1PpqP2/1P2p3/4Pr1r/P1P5/R2K4 b - -">Link</a> | Blitz |
 | Sahaj4M | **pprofrog** | insufficient ⏸️ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5K2/8/8/3k4 w - -">Link</a> | Blitz |
 | **pprofrog** | andrewemile | win 🥇 | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3k2/1Q3ppp/p3p3/4P1q1/4p3/4P2P/PP3PP1/R2R2K1 b - -">Link</a> | Blitz |
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 | **pprofrog** | hrc265 | win 🥇 | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1k1Q/ppp2pp1/2n2p1p/3b4/1b6/2NB1N2/PPP2PPP/4R1K1 b - -">Link</a> | Blitz |
 | **pprofrog** | The_Bishknight | win 🥇 | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1Qb1r/1qp1B1pp/p7/3NN1n1/1P1P4/4P3/P1b2P1P/R3K2R b KQ -">Link</a> | Blitz |
 | **pprofrog** | lehlohonololisema | resigned ❌ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rqb1rk1/5pp1/p1p1bp1p/Qp1p4/PP1P4/3BPN2/2PN1PPP/R4RK1 w - -">Link</a> | Blitz |
-| AD0420 | **pprofrog** | repetition ⏸️ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5p1/7p/2p2Q2/8/q6P/6PK/8 w - -">Link</a> | Blitz |
-| Belligerator01 | **pprofrog** | checkmated ❌ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk1Qnr/ppqp3p/2p3p1/4p3/2B1P3/8/PPPP1PPP/R1B1K2R b KQ -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
