@@ -30,21 +30,21 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1056 | 979 |
+| Current | 1517 | 1060 | 979 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **pprofrog** | werome | win 🥇 | 3/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/7R/p3q3/P7/3B1K2/2P2PPP/8 b - -">Link</a> | Blitz |
+| **pprofrog** | alidrive | resigned ❌ | 3/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p2nbppp/1pn5/2q1p1P1/4P2B/2P2Q1P/P1P2P2/3R1RK1 w - -">Link</a> | Blitz |
+| ocalitoexpress | **pprofrog** | win 🥇 | 3/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/5ppp/4bb2/1p1R4/5P2/1BP5/1P4PP/5RK1 w - -">Link</a> | Blitz |
+| **pprofrog** | samgcdev | checkmated ❌ | 3/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/ppp2ppp/2nb4/3p3n/3P4/1BP1BP1q/PP1N1P2/R3Q1RK w - -">Link</a> | Blitz |
 | kongcleve | **pprofrog** | win 🥇 | 2/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3R2pk/5r1p/4K1pP/8/4n3/8 w - -">Link</a> | Blitz |
 | ZEKO10555 | **pprofrog** | repetition ⏸️ | 2/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b3k1/1p2r1pr/pRp1p1Rp/2P1B2P/P2P1P2/3K4/8/8 b - -">Link</a> | Blitz |
 | **pprofrog** | nondercrom | win 🥇 | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/ppk2p2/2p2p2/Q1PpqP2/1P2p3/4Pr1r/P1P5/R2K4 b - -">Link</a> | Blitz |
 | Sahaj4M | **pprofrog** | insufficient ⏸️ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5K2/8/8/3k4 w - -">Link</a> | Blitz |
 | **pprofrog** | andrewemile | win 🥇 | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3k2/1Q3ppp/p3p3/4P1q1/4p3/4P2P/PP3PP1/R2R2K1 b - -">Link</a> | Blitz |
 | I_Am_Andrew_Tate | **pprofrog** | resigned ❌ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/6pp/2p3q1/8/4p3/nQ5N/P4PPP/R3R1K1 b - -">Link</a> | Blitz |
-| SlowBluesGambit | **pprofrog** | resigned ❌ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b4/1Nk3pp/p3p3/2B2p1n/8/7P/PP3PB1/2K5 b - -">Link</a> | Blitz |
-| **pprofrog** | hrc265 | win 🥇 | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1k1Q/ppp2pp1/2n2p1p/3b4/1b6/2NB1N2/PPP2PPP/4R1K1 b - -">Link</a> | Blitz |
-| **pprofrog** | The_Bishknight | win 🥇 | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1Qb1r/1qp1B1pp/p7/3NN1n1/1P1P4/4P3/P1b2P1P/R3K2R b KQ -">Link</a> | Blitz |
-| **pprofrog** | lehlohonololisema | resigned ❌ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rqb1rk1/5pp1/p1p1bp1p/Qp1p4/PP1P4/3BPN2/2PN1PPP/R4RK1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
