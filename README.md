@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Largrang | **pprofrog** | timeout ❌ | 23/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/ppp2pQp/2np4/8/4P3/5N2/PPP2PPP/R1B1KB1R b KQkq - 0 7">Link</a> | Daily |
 | **pprofrog** | lafraan | win 🥇 | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2Q/ppp3R1/3p4/2nP1p2/2P2q2/P7/8/1R5K b - -">Link</a> | Blitz |
 | trashheap0 | **pprofrog** | checkmated ❌ | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2qk1/2pp3Q/p1n1p3/1p2P1N1/8/2N5/PPP3PP/R5K1 b - -">Link</a> | Blitz |
 | **pprofrog** | jarroscafe | win 🥇 | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/1p2p1b1/2pn2N1/3p4/3P1P2/P1P3B1/1P4K1/4RR2 b - -">Link</a> | Blitz |
@@ -44,7 +45,6 @@ Here are some ideas to get you started:
 | **pprofrog** | username_is_in_use | win 🥇 | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1r1/p1p1Qp1p/6p1/2Bq4/3P4/2P1P3/P4P2/R3K1R1 b Qq -">Link</a> | Blitz |
 | umesh89 | **pprofrog** | win 🥇 | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p3pp/1p3p2/2rnp2P/8/4KN2/5PP1/1R6 w - -">Link</a> | Blitz |
 | **pprofrog** | NikoRKT | win 🥇 | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2n5/3b1P2/1pp1p2k/p7/P1P5/1P2P2P/6K1/R4R2 b - -">Link</a> | Blitz |
-| **pprofrog** | tvistur | resigned ❌ | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1ppn1pp1/p1n1p2p/3p4/1P1P3q/P1N1P2P/2P1BPP1/R2Q1RK1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
