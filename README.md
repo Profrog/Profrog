@@ -30,21 +30,21 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1235 | 979 |
+| Current | 1517 | 1219 | 979 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| D_Abu_Muhammad | **pprofrog** | resigned ❌ | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B1bnr/1kp2ppp/p2p2q1/3Ppb2/8/2P2N1P/PP2QPP1/RN2K2R b KQ -">Link</a> | Blitz |
+| **pprofrog** | rienk1 | resigned ❌ | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p2pbp/1p2p3/1B1n1p2/3n4/5K2/PPPB1PPP/R2N3R w - -">Link</a> | Blitz |
+| roger20302 | **pprofrog** | resigned ❌ | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/ppp2ppp/2p5/4P3/4NPq1/6P1/PPP4Q/2KR4 b - -">Link</a> | Blitz |
+| **pprofrog** | GinoPf | resigned ❌ | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/1bP5/1P3r2/K7/1P6/8 w - -">Link</a> | Blitz |
+| **pprofrog** | Aliabuzaidali | resigned ❌ | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pppp1p1p/8/4p1q1/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -">Link</a> | Blitz |
+| kleinerGold | **pprofrog** | win 🥇 | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p1r1p1/1p4R1/2b4p/P2pP2P/1B3r2/5P1K/6R1 w - -">Link</a> | Blitz |
+| **pprofrog** | Serberaus | win 🥇 | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2pq1pb1/p1npb1p1/1p2p2P/4P3/P1NP1N2/1PPQBPP1/R3K2R b KQ -">Link</a> | Blitz |
+| Kabilan_baskaran | **pprofrog** | win 🥇 | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R3r/5p1p/2pb1p2/4k3/4P3/8/2q2PPP/5RK1 w - -">Link</a> | Blitz |
 | **pprofrog** | jigidy00 | win 🥇 | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbQ2n1/ppk3q1/2p1p3/3p4/3P3B/3BP3/PPP3P1/2KR3R b - -">Link</a> | Blitz |
 | MarkooRamius | **pprofrog** | resigned ❌ | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1b1r/pQpk1ppp/3p1q2/8/4R3/2P2N2/PP3PPP/R1B3K1 w - -">Link</a> | Blitz |
-| **pprofrog** | Prangaa | stalemate ⏸️ | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1k6/p7/K7 w - -">Link</a> | Blitz |
-| shahramebrahimi | **pprofrog** | win 🥇 | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p5p1/2p3kp/1pB1b3/4n1r1/P1P2R2/1P3KP1/8 w - -">Link</a> | Blitz |
-| **pprofrog** | StrongHedgehog | resigned ❌ | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/2p2ppb/p2bp2p/1p6/1P1PB1QN/2P1n1B1/P5PP/2KR3R w - -">Link</a> | Blitz |
-| Damogen | **pprofrog** | win 🥇 | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/p1p3p1/4b2p/1R6/3P3P/P1P1KP2/3B2q1/8 w - -">Link</a> | Blitz |
-| **pprofrog** | alejandromla | win 🥇 | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B5/2p3p1/2k1p1q1/2Q5/3P1p2/4P3/P1P1KPP1/1r6 b - -">Link</a> | Blitz |
-| **pprofrog** | JulioMelvin | win 🥇 | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr1k1/p1Q2p1p/1p2b1p1/6q1/3nN3/3B3P/PPP2PPN/R4RK1 b - -">Link</a> | Blitz |
-| mongolalt | **pprofrog** | stalemate ⏸️ | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5k2/5p2/5K2 w - -">Link</a> | Blitz |
-| niidjan | **pprofrog** | win 🥇 | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/p4p1p/q2pk3/3p3b/3P1R2/2P1P3/PP1N2PP/5RK1 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
