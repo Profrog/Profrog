@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1297 | 979 |
+| Current | 1517 | 1283 | 979 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **pprofrog** | Lubarr | checkmated ❌ | 9/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/kpN2ppp/p1p5/8/1PP2P2/P5P1/4r2P/5r1K w - -">Link</a> | Blitz |
+| **pprofrog** | Chopawn | resigned ❌ | 9/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/ppp2pb1/2np2p1/8/7Q/P3B3/1qPKPPPP/5B1R w - -">Link</a> | Blitz |
 | Mateos137 | **pprofrog** | win 🥇 | 8/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1kp2Qpp/2p5/1q1rbp2/8/4B2P/PPR2PP1/R5K1 b - -">Link</a> | Blitz |
 | cumali55500 | **pprofrog** | win 🥇 | 8/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2pq1kp1/1p5p/p1p5/3p4/3P4/1P3PPP/2R3K1 w - -">Link</a> | Blitz |
 | **pprofrog** | atilasari | checkmated ❌ | 8/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb4r/ppN1kppp/4pn2/3p2B1/1P1P4/2p3Q1/1PP1PPPP/q1KR1BNR w - -">Link</a> | Blitz |
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 | **pprofrog** | sergeisokolov | win 🥇 | 5/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7R/4kN2/8/1b1B2P1/5K1P/8 b - -">Link</a> | Blitz |
 | michael_android | **pprofrog** | win 🥇 | 5/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r2/5nk1/p1npp1p1/Pp1p1pP1/1PbP1P2/2R1P1K1/7R/3B4 b - -">Link</a> | Blitz |
 | **pprofrog** | dpose | win 🥇 | 4/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/kQ6/3P4/6K1/8/1R6 b - -">Link</a> | Blitz |
-| **pprofrog** | thardt | win 🥇 | 4/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7P/6K1/8/8/6k1/8 b - -">Link</a> | Blitz |
-| kbe000 | **pprofrog** | win 🥇 | 4/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
