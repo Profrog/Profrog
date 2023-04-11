@@ -195,5 +195,11 @@ https://url.kr/ptsb4x
 합격인증 : https://url.kr/uvf5xd  
 단기간 웹 프로젝트 진행 : https://github.com/Profrog/web_with_sa  
 
+경력 현대로템 신호제어 연구팀 23.01.30 ~
+
+대용량 데이터 관리 vba 로직 만듬 및 마크다운 기반의 기술문서 만듦
+미쓰라시 코딩 규칙을 준수하며 개발 작업
+유로표준에 따라 life sycle 기획 및 sw cnofiguration mangeer 수행 중
+
 
 
