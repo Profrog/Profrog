@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1303 | 1054 |
+| Current | 1517 | 1297 | 1054 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **pprofrog** | adoridoikece | win 🥇 | 16/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/2K5/1Q6/k7 b - -">Link</a> | Blitz |
+| **pprofrog** | jijunlim12 | checkmated ❌ | 16/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/4p3/3p4/5PKq/4PB2/7r/8 w - -">Link</a> | Blitz |
 | septiminal | **pprofrog** | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/6q1/8/8/3b4/5k2/8/8 w - -">Link</a> | Blitz |
 | **pprofrog** | mido1412 | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1p4p1/4p3/3p2pp/Q7/2P1nB1P/PP3qP1/3R3K b - -">Link</a> | Blitz |
 | **pprofrog** | AX625 | checkmated ❌ | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp2pQp/6bK/4n2q/8/P2N4/1P4PP/R4B1R w - -">Link</a> | Blitz |
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 | **pprofrog** | MrStubbz | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/8/8/8/8/8/2K5/k7 b - -">Link</a> | Blitz |
 | Vibhu666 | **pprofrog** | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp5/1p5p/2r5/8/P3r1PP/2PR4/3K1q2 w - -">Link</a> | Bullet |
 | Subhamsahoopp | **pprofrog** | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1ppk3p/p7/3P1p1p/5pr1/8/1r6/5R1K w - -">Link</a> | Bullet |
-| Jodlak | **pprofrog** | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/ppp5/6pp/8/3n4/3P1P2/PPP1RP1P/R1B3K1 w - -">Link</a> | Bullet |
-| **pprofrog** | Sillyb4 | win 🥇 | 13/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/Qp3pp1/6qp/3p1N1n/4p3/1P2P2P/P4PP1/2R2RK1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
