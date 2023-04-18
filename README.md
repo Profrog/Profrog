@@ -30,11 +30,14 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1517 | 1297 | 1054 |
+| Current | 1517 | 1288 | 1054 |
 | Best | 1517 | 1403 | 1441 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Motorniczy_2004 | **pprofrog** | resigned ❌ | 17/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pQ4p1/4Rqkp/3P4/8/8/P4PPP/5RK1 b - -">Link</a> | Blitz |
+| ayunya | **pprofrog** | win 🥇 | 17/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/3p1n2/8/1b2P3/1PNP1N1P/1PnB2P1/R3K2R w KQkq -">Link</a> | Blitz |
+| wolfiemumu | **pprofrog** | resigned ❌ | 17/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1np1k/1p5p/1Pp2P2/4P2r/5B2/1Q6/3R2K1 b - -">Link</a> | Blitz |
 | **pprofrog** | adoridoikece | win 🥇 | 16/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/2K5/1Q6/k7 b - -">Link</a> | Blitz |
 | **pprofrog** | jijunlim12 | checkmated ❌ | 16/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/4p3/3p4/5PKq/4PB2/7r/8 w - -">Link</a> | Blitz |
 | septiminal | **pprofrog** | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/6q1/8/8/3b4/5k2/8/8 w - -">Link</a> | Blitz |
@@ -42,9 +45,6 @@ Here are some ideas to get you started:
 | **pprofrog** | AX625 | checkmated ❌ | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp2pQp/6bK/4n2q/8/P2N4/1P4PP/R4B1R w - -">Link</a> | Blitz |
 | **pprofrog** | dilliro1967 | insufficient ⏸️ | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7K/8/8/5k2/8/8 b - -">Link</a> | Blitz |
 | reza3695 | **pprofrog** | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/2p4p/3p3n/1p1Q4/4Pp1k/4Bq1P/PPP2P2/1K4R1 w - -">Link</a> | Blitz |
-| **pprofrog** | MrStubbz | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/8/8/8/8/8/2K5/k7 b - -">Link</a> | Blitz |
-| Vibhu666 | **pprofrog** | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp5/1p5p/2r5/8/P3r1PP/2PR4/3K1q2 w - -">Link</a> | Bullet |
-| Subhamsahoopp | **pprofrog** | win 🥇 | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1ppk3p/p7/3P1p1p/5pr1/8/1r6/5R1K w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
