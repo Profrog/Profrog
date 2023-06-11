@@ -199,7 +199,6 @@ https://url.kr/ptsb4x
 
 대용량 데이터 관리 vba 로직 만듬 및 마크다운 기반의 기술문서 만듦
 미쓰라시 코딩 규칙을 준수하며 개발 작업
-유로표준에 따라 life sycle 기획 및 sw cnofiguration mangeer 수행 중
 
 
 
