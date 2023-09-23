@@ -179,7 +179,7 @@ repository : https://github.com/Profrog/2022competition
 자격증 정보처리기사 합격(한국산업인력공단) 자격증 번호 : 22203050597P  22.11.27 
 링크 : https://url.kr/osni2b   
 
-자격증 topcit level 2  응시번호 : TP22020320032  22.11.28
+자격증 topcit level 2(정보통신기획평가원(IITP))  응시번호 : TP22020320032  22.11.28
 링크 : https://url.kr/ed5miy   
 
 수상경력 경상북도문화관광공사가 주최한 2022 경북 스마트관광 아이디어 공모전에서 lofi모듈을 바탕으로 한 나만의 문화재 키링 만들기 아이디어로 최우수상 수상 23.01.03  
