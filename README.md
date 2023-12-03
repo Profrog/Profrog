@@ -199,11 +199,19 @@ https://url.kr/ptsb4x
 
 경력 현대로템 신호제어 연구팀 23.01.30 ~  
 신호장치 개발 설계  
-RPA 기반 형상관리문서 자동화 프로세스 개발  
-형상관리자, 테스터, 소프트웨어 엔지니어로 활동  
+
+23.02.01 ~ : ETCS 신호장치 프로젝트 software&hardware configruation manager과 system tester 활동
+23.08.01 ~ : software requirement specification 작성 지원
+23.10.01 ~ : 기존 양산 프로젝트 관련 테스터 및 software architecture specification 문서 작성
 
 자격증 opic IM2(ACTFL) 23.09.17
 수험번호 : 2C9554426302
 
-교육활동 RPA 교육 KS아카데미 23.10.16 ~ 23.10.27
+교육활동 Wind River Systems Workbench(VxWorks) 트레이닝 워크샵 참여 23.09.18 ~ 23.09.22
+인증서 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/vxworks_cerification.jpg
+
+교육활동 RPA 기반 형상관리문서 자동화 프로세스 개발  23.10.16 ~ 23.10.27
+ks-academy 수료증 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/rpa%20%EC%88%98%EB%A3%8C%EC%A6%9D.png
+repository : <보안 이슈로 공유하지 않음>
+
 
