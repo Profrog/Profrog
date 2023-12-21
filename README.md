@@ -91,7 +91,7 @@ https://url.kr/zbpu9r
  <br>project : https://github.com/Profrog/AURA-CONNECTION-FINAL
   <br>(시연 동영상 : https://www.youtube.com/watch?v=5tsH03EbstE)	
 
-수상경력	make-a-ton 대회에서 화재 상황 별 탈출루트 모델 설계로 우수상 수상 17.03.09 ~ 17.09.21	X
+수상경력	make-a-ton 대회에서 화재 상황 별 탈출루트 모델 설계로 최우수상 수상 17.03.09 ~ 17.09.21	X
  <br>project : https://github.com/Profrog/Make-Graph-and-find-the-shortest-Root-
  <br>(코드작동 동영상 : https://www.youtube.com/watch?v=9HfEB9ufzn0)	
  <br> 사진 : https://url.kr/7ajlr9  
