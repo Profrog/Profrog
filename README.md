@@ -200,7 +200,7 @@ https://url.kr/ptsb4x
 경력 현대로템 신호제어 연구팀 23.01.30 ~  
 신호장치 개발 설계  
 
-23.02.01 ~ : ETCS 신호장치 프로젝트 software&hardware configruation manager과 system tester 활동
+23.02.01 ~ : sil4 인증 기반의 ETCS 신호장치 프로젝트 software&hardware configruation manager과 system tester 활동
 23.08.01 ~ : software requirement specification 작성 지원
 23.10.01 ~ : 기존 양산 프로젝트 관련 테스터 및 software architecture specification 문서 작성
 
