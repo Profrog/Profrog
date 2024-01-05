@@ -203,6 +203,7 @@ https://url.kr/ptsb4x
 23.02.01 ~ : sil4 인증 기반의 ETCS 신호장치 프로젝트 software&hardware configruation manager과 system tester 활동
 23.08.01 ~ : software requirement specification 작성 지원
 23.10.01 ~ : 기존 양산 프로젝트 관련 테스터 및 software architecture specification 문서 작성
+23.12.01 ~ : 리팩토링 진행(c 언어)
 
 자격증 opic IM2(ACTFL) 23.09.17
 수험번호 : 2C9554426302
