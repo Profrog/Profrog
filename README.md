@@ -199,6 +199,7 @@ https://url.kr/ptsb4x
 
 경력 현대로템 신호제어 연구팀 23.01.30 ~  
 신호장치 개발 설계  
+철도 신호 장치 개발을 위하여 ETCS 표준을 분석하고 SRS,SWRS 추출 지원 및 test engineer로서 시스템 테스트 명세를 위하여 시스템 하의 요소들을 HW,SW로 분리 subset 시험 사양에 매칭 되는 대로 plan 작성. sw engineer로서 basecode 분석하고 요구사항과 매칭 및 개발 계획 수립. 형상 관리자로서 개발 형상을 유지 하기 위해 소프트웨어 아키텍처 기반으로 개발 리스트 묶음 및 관리
 
 23.02.01 ~ : sil4 인증 기반의 ETCS 신호장치 프로젝트 software engineer, software&hardware configruation manager과 system tester 활동
 23.08.01 ~ : software requirement specification 작성 지원
