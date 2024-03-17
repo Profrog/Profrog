@@ -209,4 +209,5 @@ https://url.kr/ptsb4x
 ks-academy 수료증 : https://github.com/Profrog/Profrog/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/rpa%20%EC%88%98%EB%A3%8C%EC%A6%9D.png
 repository : <보안 이슈로 공유하지 않음>
 
+경력 티맥스 CK2-2 연구원 23.03.04 ~ 
 
